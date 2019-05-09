@@ -1,1 +1,1 @@
-web: gunicorn dashboard-biodiversity-ib.app:app
+web:gunicorn dashboard-biodiversity-ib.app:app
